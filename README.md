@@ -7,7 +7,7 @@ Her starting position is also the location of the escape rope that she must use 
 Each room may be empty, or it may contain one (and only one) of four "events" (all described below): two kinds of dangerous hazards,
 the terrifying Wumpus, and the gold treasure. When the adventurer is in a room that’s adjacent to one containing an "event",
 the player will receive a percept (a message) to inform them about the event the adventurer is close to.
-If the adventurer perishes while searching for the Wumpus, the player should be presented with the option to start the game over with the same cave configuration,
+If the adventurer perishes while searching for the Wumpus, the player is presented with the option to start the game over with the same cave configuration,
 start the game over with a new random cave configuration, or quit the game entirely.
 The player wins the game if they can safely guide the adventurer through the cave to kill the Wumpus, pick up the gold, and make it back to the escape rope unharmed!
 Note: If you enter the cave, retrieve the gold, and escape without killing the Wumpus, that's okay too. The player still wins.
