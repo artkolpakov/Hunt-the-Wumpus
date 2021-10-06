@@ -1,7 +1,7 @@
 CC = g++
 CFLAGS = -std=c++11
 
-exe_file = asg4
+exe_file = wumpus
 
 # Handle debug case
 DEBUG ?= 1
